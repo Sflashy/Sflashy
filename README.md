@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/11264320?v=4" alt="Sflashy GIF">
+  <img src="https://avatars.githubusercontent.com/u/11264320?v=4" width="250" alt="Sflashy GIF">
 </p>
 
 <h2 align="center"> Hi, I'm Sflashy! </h2>
